@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Fluffers",
+        "type": "cat"
+    },
+    {
+        "name": "Woofy",
+        "type": "dog"
+    },
+    {
+        "name": "Batta",
+        "type": "duck"
+    },
+    {
+        "name": "BunZ",
+        "type": "wabbit"
+    }
+]
